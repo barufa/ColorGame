@@ -1,5 +1,5 @@
 # ColorGame
-Implementación de un juego simple en html,css y javascript.
+Implementation of a simple game in HTML,CSS and Javascript.
 
 To use it just download the repository code and open 'ColorGame.html' with your default browser.
 
